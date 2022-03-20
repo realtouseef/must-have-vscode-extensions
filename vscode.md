@@ -2,7 +2,7 @@
 
 ## Run Code inside VSCODE
 
--[Quokka.js](https://quokkajs.com/) -[]()
+-[Quokka.js](https://quokkajs.com/)
 
 ## For APIs
 
@@ -23,7 +23,7 @@
 
 ## Track Your Code Time
 
-- [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) -[]()
+- [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
 
 ## Take a beautiful Screenshot
 
