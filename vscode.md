@@ -17,7 +17,7 @@
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
-# Auto-code Suggestion
+## Auto-code Suggestion
 
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
