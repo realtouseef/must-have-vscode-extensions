@@ -2,15 +2,14 @@
 
 ## Must for every WEB DEVELOPER
 
-[//]: <> (Live Server lets you experience live changes in your browser)
-
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
-[//]: <> (Live Share is for Real-time collab)
+  -- Live Server lets you experience live changes in your browser
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+  -- Live Share is for Real-time collab
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  -- Prettier prettifies your code
 
 ## Run Code inside VSCODE
 
