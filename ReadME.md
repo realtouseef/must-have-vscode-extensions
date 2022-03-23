@@ -13,7 +13,7 @@ You can make contribution if you have extensions that you want to list here and 
 git clone https://github.com/realtouseef/must-have-vscode-extensions.git
 
 # Go into the repository
-cd devFolio
+cd must-have-vscode-extensions
 ```
 
 After you have made changes
