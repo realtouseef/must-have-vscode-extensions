@@ -32,6 +32,21 @@
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
   -- Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
 
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+  -- Boost your productivity with the expert guidance of an AI code completion assistant trusted by millions of developers.
+
+- [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+  -- This extension creates a colored background for the codes/colors you have used in your style files. Supports css/sass/less/postcss/stylus/XML... files.
+
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+  -- Polacode creates beautiful pictures of copy and pasted code snippets, so you can easily share and show others. Easy to use with easy-to-see outcomes!
+
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+  -- This extension contains code snippets for JavaScript in ES6 syntax for Vs Code editor (supports both JavaScript and TypeScript).
+
+- [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+  -- This extension contains code snippets for Reactjs and is based on the awesome babel-sublime-snippets package.
+
 ## Run Code inside VSCODE
 
 - [Quokka.js](https://quokkajs.com/)
@@ -56,6 +71,8 @@
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
 - [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
   -- Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
